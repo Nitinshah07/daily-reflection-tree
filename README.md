@@ -64,6 +64,40 @@ Output:
 Take a short break and focus on one small task at a time.
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository  
+2. Open terminal in project folder  
+3. Run:
+
+```bash
+python agent.py
+
+
+---
+
+
+
+```md
+## 💬 Example Interaction
+
+Input:
+How are you feeling today? stressed
+
+Output:
+Let's reflect a bit:
+
+- What is causing the stress?
+- Can you break it into smaller parts?
+
+Suggestion:
+Take a short break and focus on one small task at a time.
+
+
+Happy → Reflection → Gratitude  
+Sad → Support → Journaling  
+Confused → Clarity → Decision making  
+Stressed → Action → Task breakdown
 ## 👤 Author
 
 Nitin Shah
